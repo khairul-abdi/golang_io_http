@@ -1,0 +1,2 @@
+https://articles.wesionary.team/difference-of-json-encoding-vs-marshaling-and-json-decoding-vs-unmarshaling-1a6baf6a7f5c
+https://blog.joshsoftware.com/2024/08/26/guide-to-json-marshal-unmarshal-and-encode-decode/
